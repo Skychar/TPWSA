@@ -1,0 +1,11 @@
+ws:
+    resource: "@WSBundle/Resources/config/routing.yml"
+    prefix:   /api/
+
+backend:
+    resource: "@BackendBundle/Resources/config/routing.yml"
+    prefix:   /backend
+
+app:
+    resource: '@AppBundle/Resources/config/routing.yml'
+    prefix: /
