@@ -29,7 +29,7 @@
         "twig/twig": "^1.0||^2.0"
     },
     "require-dev": {
-        "firebase/php-jwt": "v5.0.0",
+        "firebase/php-jwt": "v6.0.0",
         "friendsofsymfony/oauth-server-bundle": "1.6.2",
         "friendsofsymfony/user-bundle": "v2.1.2",
         "lexik/jwt-authentication-bundle": "v2.6.3",
